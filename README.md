@@ -1,0 +1,1 @@
+# This is a battleships game that I had to make for the high school Informatics certificate.
